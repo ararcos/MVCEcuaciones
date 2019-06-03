@@ -37,16 +37,16 @@
                                 <ul id="images" class="rs-slider">
                                     <li class="group">
                                         <a href="#">
-                                            <img src="assets/img/slides/refine/slide1.jpg" alt="" />
+                                            <img src="assets/img/slides/refine/slide1.png" alt="" />
                                         </a>
                                     </li>
                                     <li class="group">
                                         <a href="#" class="slide-parent">
-                                            <img src="assets/img/slides/refine/slide2.jpg" alt=""/>
+                                            <img src="assets/img/slides/refine/slide2.png" alt=""/>
                                         </a>
                                     </li>
                                     <li class="group">
-                                        <img src="assets/img/slides/refine/slide3.jpg" alt="" />
+                                        <img src="assets/img/slides/refine/slide3.png" alt="" />
                                     </li>
                                 </ul>
                             </div>

@@ -21,7 +21,7 @@
             <div class="container">
                 <center><h2>X = ${requestScope.calculoSegundoGrado.getX1()}<br></h2>
                 <h2>X = ${requestScope.calculoSegundoGrado.getX2()}<br></h2></center>
-                <table style="width:100%">
+                <table style="width:100%" class="table">
                     <tr>
                         <th>X</th>
                         <th>Y</th> 
